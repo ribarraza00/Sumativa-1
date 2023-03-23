@@ -1,0 +1,27 @@
+header{
+    color:#03e028;
+    font-family: 'Raleway', sans-serif;
+}
+header a{
+    color:aliceblue;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+.menu-p{
+    display:grid;
+    grid-template-columns: 30% 70%;
+    background: #000000;
+}
+div{
+    
+    align-items: center;
+    text-align: center;
+    padding: 1em;
+}
+nav{ 
+    text-align:right;
+}
+
+a:hover{
+    border-bottom: 1px solid #03e028;
+}
