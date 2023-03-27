@@ -53,5 +53,88 @@ a:hover{
     grid-template-columns: 50% 50%;
 }
 
-      
+.Informatico{
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
+.Retail{
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
+.Agropecuario{
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
+.Minero{
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
+.Contactanos{
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
+.img.informatico{
+    background-image: url(imagenes/fondo-placa-circuitos-estilo-plano_52683-15669.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
 
+.section {
+    background-image: url(imagenes/plantilla-diseno-fondo-degradado-minimalista_483537-2861.avif);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 24px;
+}
